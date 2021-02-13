@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693390157846",
+    "project_id": "noura-ffbe3",
+    "storage_bucket": "noura-ffbe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693390157846:android:6faed7e210dae4b017ed37",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_n"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693390157846-dmhfhbml1fsr109smbqhoa1n89t8n313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ivgVJRH3ejRjhzVCyLkty_P8gmkylaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693390157846-dmhfhbml1fsr109smbqhoa1n89t8n313.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
